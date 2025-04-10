@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Dmitry 
+### Fullstack Developer
 
-<!--
-**dmtr636/dmtr636** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💡 Building high-performance web apps with **3+ years** of experience using **React, Spring, Django**
+- 🏆 **2x Winner** of "Leaders of Digital Transformation" Hackathon (2023, 2024)
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,typescript,spring,django,docker,figma,sass,webpack,vite,postgres" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect
+[🌐 Portfolio](https://dmtr636.expfolio.com)  
+📧 dmtr636@gmail.com  
+✈️ Telegram: @dmtr636
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmtr636&layout=compact&theme=dark)
