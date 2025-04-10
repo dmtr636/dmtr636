@@ -14,4 +14,12 @@
 📧 dmtr636@gmail.com  
 ✈️ Telegram: @dmtr636
 
+<details>
+
+<summary>GitHub stats</summary>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmtr636&layout=compact&theme=dark)
+
+</details>
+
+
